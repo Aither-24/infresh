@@ -5,7 +5,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
-<body class="bg-emerald-300">
+<body class="bg-primary-content">
     <!-- Navbar -->
     <div class="sticky top-0 z-30">
         <?php include_once("navbar.html"); ?>
@@ -88,7 +88,7 @@
             </div>
         </div>
         <div class="grid grid-rows-3 grid-flow-col gap-2 p-10">
-            <div class="text-2xl text-emerald-800">About Service</div>
+            <div class="text-2xl text-primary-content">About Service</div>
             <div class="flex flex-wrap gap-24">
                 <div class="w-32">Seller Service</div>
                 <div class="rating">
