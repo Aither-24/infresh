@@ -51,7 +51,7 @@
                 <div class="grid grid-cols-4 gap-2">
                     <button class="btn btn-outline btn-primary">Share</button>
                     <button class="btn btn-outline btn-primary">Chat</button>
-                    <button class="btn btn-outline btn-primary">Add to Chart</button>
+                    <button class="btn btn-outline btn-primary">Add to Cart</button>
                     <button class="btn btn-outline btn-primary">Buy Now</button>
                     <br>
                 </div>
